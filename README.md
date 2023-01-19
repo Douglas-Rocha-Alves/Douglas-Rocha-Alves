@@ -1,4 +1,5 @@
-<h1 align="left">Hey 👋 how are you?</h1>
+<h1 align="left">Hi 👋 how are you?! I hope well
+</h1>
 
 ###
 
@@ -14,9 +15,9 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Conecct with me</h2>
 
-###
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/drogaum1407/" target="_blank">
@@ -31,6 +32,8 @@
 </div>
 
 ###
+
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
