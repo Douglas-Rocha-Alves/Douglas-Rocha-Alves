@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Douglas, sou desenvolvedor front-end, atualmente estou aprimorando minhas habilidades em desenvolvimento web, com conhecimentos em JavaScript, Python, CSS e React.
- </p>
+<p align="left"></p>
 
 ###
 
@@ -11,11 +10,11 @@
 
 ###
 
-<p align="left"> </p>
+<p align="left">Me chamo Douglas, sou desenvolvedor front-end, atualmente estou aprimorando minhas habilidades em desenvolvimento web, com conhecimentos em JavaScript, Python, CSS e React.</p>
 
 ###
 
-<h2 align="left">Conecct with me</h2>
+<h2 align="left">Entre em contato comigo</h2>
 
 ### 
 
