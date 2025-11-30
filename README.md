@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👋 tudo bem?! espero que sim.</h1>
+<h1 align="left">Oi 👋</h1>
 
 ###
 
