@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me chamo Douglas, sou desenvolvedor web, atualmente estou aprimorando minhas habilidades, com conhecimentos em JavaScript, Python, CSS e React.</p>
+<p align="left">Meu nome é Douglas Rocha e estou construindo minha carreira como desenvolvedor. Tenho me dedicado diariamente ao estudo e à prática, criando projetos que me ajudam a crescer e entender cada vez mais o universo da programação. Estou sempre aberto a novos desafios e oportunidades de aprendizado.</p>
 
 ###
 
