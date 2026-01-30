@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Meu nome é Douglas Rocha e estou construindo minha carreira como desenvolvedor. Tenho me dedicado diariamente ao estudo e à prática, criando projetos que me ajudam a crescer e entender cada vez mais o universo da programação. Estou sempre aberto a novos desafios e oportunidades de aprendizado.</p>
+<p align="left">Desenvolvedor backend focado em Node.js e TypeScript.  
+Interesse em APIs, integrações, regras de negócio e código bem estruturado.
+
+Este repositório reúne projetos, estudos e experimentos ao longo da minha jornada como desenvolvedor.</p>
 
 ###
 
