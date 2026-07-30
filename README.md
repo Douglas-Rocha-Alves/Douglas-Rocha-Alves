@@ -11,6 +11,7 @@
 ###
 
 <p align="left">Atualmente atuo como desenvolvedor backend em projetos corporativos privados, utilizando NestJS, TypeScript, MongoDB e integrações financeiras. Por questões de confidencialidade, grande parte da minha atividade profissional não está disponível publicamente neste perfil.
+  
 ###
 
 <h2 align="left">Entre em contato comigo</h2>
