@@ -10,13 +10,7 @@
 
 ###
 
-<p align="left">Sou Douglas Rocha, desenvolvedor Back-End com foco em Node.js, TypeScript e arquitetura de APIs.
-
-Atuo na construção e manutenção de integrações financeiras, criação de módulos escaláveis e organização de código seguindo boas práticas de arquitetura e testes. Trabalho com NestJS, modelagem de dados e integração com serviços externos, sempre priorizando clareza, padronização e responsabilidade técnica.
-
-Venho de uma experiência profissional em diversas áreas, incluindo atuação como CEO no ramo automotivo. Essa vivência me proporcionou uma base sólida em resolução de problemas, tomada de decisão sob pressão e visão estratégica de negócio, habilidades que hoje aplico diretamente no desenvolvimento de software.
-
-Tenho perfil analítico, gosto de entender profundamente como as coisas funcionam e busco evolução contínua, tanto técnica quanto profissional.
+<p align="left">Atualmente atuo como desenvolvedor backend em projetos corporativos privados, utilizando NestJS, TypeScript, MongoDB e integrações financeiras. Por questões de confidencialidade, grande parte da minha atividade profissional não está disponível publicamente neste perfil.
 ###
 
 <h2 align="left">Entre em contato comigo</h2>
